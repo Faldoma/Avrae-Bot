@@ -1,3 +1,4 @@
+<print>
 Dice Examples
 !r 2d20kh1 - Roll a d20 with advantage. 
 !r 4d6kh3 - 4d6 drop lowest stat rolls. 
@@ -29,4 +30,4 @@ For more help, the !help command shows applicable arguments for each command.
 
 - Character Sheet Integration: To load a character sheet, simply say !dicecloud [character sheet url]. To load a PDF, go into Discord and upload the sheet as an attachment, with !pdfsheet as the caption. 
 Once this is done, you can roll skill checks with !c [skill], saving throws with !save [stat], and attacks with !a [attack name].
-
+</print>
