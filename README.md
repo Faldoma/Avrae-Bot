@@ -1,4 +1,5 @@
 <print>
+Avrae Bot Info.
 Dice Examples
 !r 2d20kh1 - Roll a d20 with advantage. 
 !r 4d6kh3 - 4d6 drop lowest stat rolls. 
